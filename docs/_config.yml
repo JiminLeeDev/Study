@@ -6,3 +6,6 @@ whitelist:
   - jekyll-remote-theme
 
 remote_theme: wbadart/jekyll-theme-dark-minimal
+
+url: "https://jiminleedev.github.io"
+baseurl: "/Study"
