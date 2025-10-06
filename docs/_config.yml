@@ -1,11 +1,10 @@
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
 
 whitelist:
   - jekyll-remote-theme
 
-remote_theme: wbadart/jekyll-theme-dark-minimal
+remote_theme: pages-themes/midnight
 
 url: "https://jiminleedev.github.io"
 baseurl: "/Study"
