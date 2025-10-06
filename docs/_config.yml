@@ -8,3 +8,6 @@ remote_theme: pages-themes/midnight
 
 url: "https://jiminleedev.github.io"
 baseurl: "/Study"
+
+include:
+  - assets/css/custom.css
