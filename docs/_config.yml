@@ -9,5 +9,6 @@ remote_theme: pages-themes/midnight
 url: "https://jiminleedev.github.io"
 baseurl: "/Study"
 
-include:
-  - assets/css/custom.css
+title: Jimin Lee's DevLog
+tagline: 개발노트
+description: 공부한 내용을 업로드합니다.
