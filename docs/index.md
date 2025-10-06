@@ -8,6 +8,11 @@
 
 ## 글 목록
 
+- [Github]({{ '/github/' | relative_url }})
+-
+
+<hr />
+
 <footer>
 © 2025 Jimin Lee
 </footer>
