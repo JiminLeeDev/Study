@@ -1,7 +1,7 @@
 ---
 layout: default
 title: github
-permalink: /Github/
+permalink: /github/
 ---
 
 # github
