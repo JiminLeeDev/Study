@@ -12,7 +12,7 @@ vercel 사의 공식 reference site를 참조하여 단계별로 학습한 내�
 
 ## 글 목록
 
-- [Getting-Started]({{ '/nextJSTutorial/gettingStarted | relative_url }})
+- [Getting-Started]({{ '/nextJSTutorial/gettingStarted/' | relative_url }})
 - [Installation]({{ '/nextJSTutorial/'installation| relative_url }})
 
 <hr />
