@@ -9,7 +9,7 @@
 ## 글 목록
 
 - [Github]({{ '/github/' | relative_url }})
--
+- [nextJSTutorial]({{'/nextJSTutorial' | relative_url }})
 
 <hr />
 
