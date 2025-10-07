@@ -26,7 +26,3 @@ permalink: /nextJSTutorial/installation/
 ```
 npx create-next-app@latest
 ```
-
-<footer>
-© 2025 Jimin Lee
-</footer>

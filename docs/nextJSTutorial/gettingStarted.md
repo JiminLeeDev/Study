@@ -44,7 +44,3 @@ React의 경우엔 경험이 없거나 복습이 필요한 경우, [React 기초
 ## 다음 단계
 
 다음 단계에선 next.js 개발 환경 구축을 위해 필요한 것들을 준비하는 installation에 대해 학습할 예정이니 참고 부탁드립니다.
-
-<footer>
-© 2025 Jimin Lee
-</footer>
