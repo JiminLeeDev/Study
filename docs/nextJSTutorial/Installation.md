@@ -19,7 +19,7 @@ permalink: /nextJSTutorial/installation/
 
 ## 자동 installation
 
-빠르게 next.js application을 개발하기 위해 [npx] ({{'/npx/' | relative_url }})를 통해 create-next-app 명령어를 입력하겠습니다.
+빠르게 next.js application을 개발하기 위해 [npx]({{'/npx/' | relative_url }})를 통해 create-next-app 명령어를 입력하겠습니다.
 
 아래와 같은 명령어를 terminal에 입력하면 됩니다.
 

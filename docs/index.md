@@ -10,7 +10,7 @@
 
 - [Github]({{ '/github/' | relative_url }})
 - [nextJSTutorial]({{'/nextJSTutorial' | relative_url }})
-- npx {{'/npx/' | relative_url }})
+- [npx]({{'/npx/' | relative_url }})
 
 <hr />
 
