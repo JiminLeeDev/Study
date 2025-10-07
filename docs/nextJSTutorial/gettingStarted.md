@@ -1,7 +1,7 @@
 ---
 우선 layout: default
 title: gettingStarted
-permalink: /gettingStarted/
+permalink: /nextJSTutorial/gettingStarted/
 ---
 
 # Getting Started
